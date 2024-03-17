@@ -1,0 +1,81 @@
+C:\Users\user1\Desktop\שנה ב\Angular\angular-server\angular-server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user1\Desktop\שנה ב\Angular\angular-server\angular-server\bin\Debug\net6.0\appsettings.json
+C:\Users\user1\Desktop\שנה ב\Angular\angular-server\angular-server\bin\Debug\net6.0\angular-server.exe
+C:\Users\user1\Desktop\שנה ב\Angular\angular-server\angular-server\bin\Debug\net6.0\angular-server.deps.json
+C:\Users\user1\Desktop\שנה ב\Angular\angular-server\angular-server\bin\Debug\net6.0\angular-server.runtimeconfig.json
+C:\Users\user1\Desktop\שנה ב\Angular\angular-server\angular-server\bin\Debug\net6.0\angular-server.dll
+C:\Users\user1\Desktop\שנה ב\Angular\angular-server\angular-server\bin\Debug\net6.0\angular-server.pdb
+C:\Users\user1\Desktop\שנה ב\Angular\angular-server\angular-server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\שנה ב\Angular\angular-server\angular-server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\שנה ב\Angular\angular-server\angular-server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\שנה ב\Angular\angular-server\angular-server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\שנה ב\Angular\angular-server\angular-server\obj\Debug\net6.0\angular-server.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\שנה ב\Angular\angular-server\angular-server\obj\Debug\net6.0\angular-server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\שנה ב\Angular\angular-server\angular-server\obj\Debug\net6.0\angular-server.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\שנה ב\Angular\angular-server\angular-server\obj\Debug\net6.0\angular-server.AssemblyInfo.cs
+C:\Users\user1\Desktop\שנה ב\Angular\angular-server\angular-server\obj\Debug\net6.0\angular-server.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\שנה ב\Angular\angular-server\angular-server\obj\Debug\net6.0\angular-server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\שנה ב\Angular\angular-server\angular-server\obj\Debug\net6.0\angular-server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\שנה ב\Angular\angular-server\angular-server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user1\Desktop\שנה ב\Angular\angular-server\angular-server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user1\Desktop\שנה ב\Angular\angular-server\angular-server\obj\Debug\net6.0\scopedcss\bundle\angular-server.styles.css
+C:\Users\user1\Desktop\שנה ב\Angular\angular-server\angular-server\obj\Debug\net6.0\angular-server.csproj.CopyComplete
+C:\Users\user1\Desktop\שנה ב\Angular\angular-server\angular-server\obj\Debug\net6.0\angular-server.dll
+C:\Users\user1\Desktop\שנה ב\Angular\angular-server\angular-server\obj\Debug\net6.0\refint\angular-server.dll
+C:\Users\user1\Desktop\שנה ב\Angular\angular-server\angular-server\obj\Debug\net6.0\angular-server.pdb
+C:\Users\user1\Desktop\שנה ב\Angular\angular-server\angular-server\obj\Debug\net6.0\angular-server.genruntimeconfig.cache
+C:\Users\user1\Desktop\שנה ב\Angular\angular-server\angular-server\obj\Debug\net6.0\ref\angular-server.dll
+C:\Users\user1\Desktop\angular-server\angular-server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user1\Desktop\angular-server\angular-server\bin\Debug\net6.0\appsettings.json
+C:\Users\user1\Desktop\angular-server\angular-server\bin\Debug\net6.0\angular-server.exe
+C:\Users\user1\Desktop\angular-server\angular-server\bin\Debug\net6.0\angular-server.deps.json
+C:\Users\user1\Desktop\angular-server\angular-server\bin\Debug\net6.0\angular-server.runtimeconfig.json
+C:\Users\user1\Desktop\angular-server\angular-server\bin\Debug\net6.0\angular-server.dll
+C:\Users\user1\Desktop\angular-server\angular-server\bin\Debug\net6.0\angular-server.pdb
+C:\Users\user1\Desktop\angular-server\angular-server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\angular-server\angular-server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\angular-server\angular-server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\angular-server\angular-server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\angular-server\angular-server\obj\Debug\net6.0\angular-server.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\angular-server\angular-server\obj\Debug\net6.0\angular-server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\angular-server\angular-server\obj\Debug\net6.0\angular-server.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\angular-server\angular-server\obj\Debug\net6.0\angular-server.AssemblyInfo.cs
+C:\Users\user1\Desktop\angular-server\angular-server\obj\Debug\net6.0\angular-server.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\angular-server\angular-server\obj\Debug\net6.0\angular-server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\angular-server\angular-server\obj\Debug\net6.0\angular-server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\angular-server\angular-server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user1\Desktop\angular-server\angular-server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user1\Desktop\angular-server\angular-server\obj\Debug\net6.0\scopedcss\bundle\angular-server.styles.css
+C:\Users\user1\Desktop\angular-server\angular-server\obj\Debug\net6.0\angular-server.csproj.CopyComplete
+C:\Users\user1\Desktop\angular-server\angular-server\obj\Debug\net6.0\angular-server.dll
+C:\Users\user1\Desktop\angular-server\angular-server\obj\Debug\net6.0\refint\angular-server.dll
+C:\Users\user1\Desktop\angular-server\angular-server\obj\Debug\net6.0\angular-server.pdb
+C:\Users\user1\Desktop\angular-server\angular-server\obj\Debug\net6.0\angular-server.genruntimeconfig.cache
+C:\Users\user1\Desktop\angular-server\angular-server\obj\Debug\net6.0\ref\angular-server.dll
+C:\Users\user1\Desktop\פרויקט באנגולר\angular-server\angular-server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user1\Desktop\פרויקט באנגולר\angular-server\angular-server\bin\Debug\net6.0\appsettings.json
+C:\Users\user1\Desktop\פרויקט באנגולר\angular-server\angular-server\bin\Debug\net6.0\angular-server.exe
+C:\Users\user1\Desktop\פרויקט באנגולר\angular-server\angular-server\bin\Debug\net6.0\angular-server.deps.json
+C:\Users\user1\Desktop\פרויקט באנגולר\angular-server\angular-server\bin\Debug\net6.0\angular-server.runtimeconfig.json
+C:\Users\user1\Desktop\פרויקט באנגולר\angular-server\angular-server\bin\Debug\net6.0\angular-server.dll
+C:\Users\user1\Desktop\פרויקט באנגולר\angular-server\angular-server\bin\Debug\net6.0\angular-server.pdb
+C:\Users\user1\Desktop\פרויקט באנגולר\angular-server\angular-server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\פרויקט באנגולר\angular-server\angular-server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\פרויקט באנגולר\angular-server\angular-server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\פרויקט באנגולר\angular-server\angular-server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\פרויקט באנגולר\angular-server\angular-server\obj\Debug\net6.0\angular-server.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט באנגולר\angular-server\angular-server\obj\Debug\net6.0\angular-server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\פרויקט באנגולר\angular-server\angular-server\obj\Debug\net6.0\angular-server.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\פרויקט באנגולר\angular-server\angular-server\obj\Debug\net6.0\angular-server.AssemblyInfo.cs
+C:\Users\user1\Desktop\פרויקט באנגולר\angular-server\angular-server\obj\Debug\net6.0\angular-server.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט באנגולר\angular-server\angular-server\obj\Debug\net6.0\angular-server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\פרויקט באנגולר\angular-server\angular-server\obj\Debug\net6.0\angular-server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\פרויקט באנגולר\angular-server\angular-server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user1\Desktop\פרויקט באנגולר\angular-server\angular-server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user1\Desktop\פרויקט באנגולר\angular-server\angular-server\obj\Debug\net6.0\scopedcss\bundle\angular-server.styles.css
+C:\Users\user1\Desktop\פרויקט באנגולר\angular-server\angular-server\obj\Debug\net6.0\angular-server.csproj.CopyComplete
+C:\Users\user1\Desktop\פרויקט באנגולר\angular-server\angular-server\obj\Debug\net6.0\angular-server.dll
+C:\Users\user1\Desktop\פרויקט באנגולר\angular-server\angular-server\obj\Debug\net6.0\refint\angular-server.dll
+C:\Users\user1\Desktop\פרויקט באנגולר\angular-server\angular-server\obj\Debug\net6.0\angular-server.pdb
+C:\Users\user1\Desktop\פרויקט באנגולר\angular-server\angular-server\obj\Debug\net6.0\angular-server.genruntimeconfig.cache
+C:\Users\user1\Desktop\פרויקט באנגולר\angular-server\angular-server\obj\Debug\net6.0\ref\angular-server.dll
